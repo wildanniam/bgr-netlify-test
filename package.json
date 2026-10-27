@@ -1,7 +1,0 @@
-{
-  "name": "bgr-netlify-test",
-  "private": true,
-  "type": "module",
-  "scripts": { "dev": "vite", "build": "vite build" },
-  "devDependencies": { "vite": "^5.4.0" }
-}
